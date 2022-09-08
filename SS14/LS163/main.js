@@ -1,0 +1,1 @@
+console.log("JSON is a datatype");

@@ -1,0 +1,1 @@
+export { default } from './logger1.js';

@@ -1,0 +1,1 @@
+document.querySelector(".heading").innerText = "F8 - Học lập trình để đi làm";

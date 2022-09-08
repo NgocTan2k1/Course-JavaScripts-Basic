@@ -1,0 +1,1 @@
+console.log("classList of element contain name classes of that element");
